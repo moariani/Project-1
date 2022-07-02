@@ -1,0 +1,56 @@
+/* Start Styles */
+
+
+/* Footer Box Blog */
+.footer-box {
+    height: 150px;
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 50px;
+}
+
+/* Logout-form */
+.logout-form {
+    display: none;
+}
+
+/* Image Carousel Blog */
+.img-carousel {
+    opacity: 0.8;
+}
+
+/* Cards Blog */
+.newest-post-card {
+    background-color: #0556ec;
+    width: 49%;
+    height: 300px;
+    margin: .25%;
+    padding: 2px;
+}
+
+.newest-post-card-body {
+    height: 200px;
+    overflow: hidden;
+}
+
+
+.category-card {
+    background-color: #7a8185;
+    height: 200px;
+}
+
+.category-card-body {
+    height: 100px;
+    overflow: hidden;
+}
+
+/* Article page */
+.best-margin-top {
+    margin-top: 75px;
+}
+
+/* Cards Admin */
+.admin-card {
+    height: 250px;
+}
+
